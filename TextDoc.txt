@@ -2,6 +2,7 @@ This is a GitHub Demo.
 Seems like something.
 We have seriously reached somewhere far.
 
+But this is on the Local m/c.
 We dont need no Branches no more.
 Cause its all on the Remote right now.
 
